@@ -4,15 +4,15 @@
 int main (int argc, char *argv[]) {
 
     char peliculas[10][4][40]={{"1","Avatar","10:20","Fantasia"},
-                               {"","",""},
-                               {"","",""},
-                               {"","",""},
-                               {"","",""},
-                               {"","",""},
-                               {"","",""},
-                               {"","",""},
-                               {"","",""},
-                               {"","",""}};
+                               {"2","REC","8:30","Terror"},
+                               {"3","Angry Birds","11:00","Animacion"},
+                               {"4","Elementos","12:30","Animacion"},
+                               {"5","Sherk","9:30","Fantasia"},
+                               {"6","IT","13:00","Terror"},
+                               {"7","El Aro","14:30","Terror"},
+                               {"8","Garfield","15:00","Animacion"},
+                               {"9","Las 50 sombras de grey","16:00","Fantasia"},
+                               {"10","Sing","17:30","Animacion"}};
     double precio[3]={7,3.5,3};
     char clientes[5][2][40]={{"",""},
                              {"Luis","123456788"},
